@@ -15,7 +15,7 @@ A simple and elegant weather application that allows users to search for weather
 
 1. Clone the repository:
     ```bash
-    git clone https://github.com/your-username/weather-app.git
+    git clone https://github.com/sahil01rastogi/wheather-app
     ```
 2. Navigate to the project directory:
     ```bash
